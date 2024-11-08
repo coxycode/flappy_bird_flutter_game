@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Body -->
+  <circle cx="32" cy="32" r="24" fill="#FFD700" stroke="#DAA520" stroke-width="4"/>
+  
+  <!-- Eye -->
+  <circle cx="40" cy="28" r="4" fill="#FFFFFF"/>
+  <circle cx="42" cy="28" r="2" fill="#000000"/>
+  
+  <!-- Beak -->
+  <polygon points="48,35 40,40 40,30" fill="#FF8C00"/>
+
+  <!-- Wing -->
+  <ellipse cx="30" cy="38" rx="10" ry="6" fill="#FFD700" stroke="#DAA520" stroke-width="2"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grass Layer -->
+  <rect x="0" y="0" width="200" height="15" fill="#4CAF50"/>
+  <!-- Grass Blades -->
+  <path d="M5 15 L8 5 L11 15 Z" fill="#4CAF50"/>
+  <path d="M20 15 L23 5 L26 15 Z" fill="#4CAF50"/>
+  <path d="M35 15 L38 5 L41 15 Z" fill="#4CAF50"/>
+  <path d="M50 15 L53 5 L56 15 Z" fill="#4CAF50"/>
+  <path d="M65 15 L68 5 L71 15 Z" fill="#4CAF50"/>
+  <path d="M80 15 L83 5 L86 15 Z" fill="#4CAF50"/>
+  <path d="M95 15 L98 5 L101 15 Z" fill="#4CAF50"/>
+  <path d="M110 15 L113 5 L116 15 Z" fill="#4CAF50"/>
+  <path d="M125 15 L128 5 L131 15 Z" fill="#4CAF50"/>
+  <path d="M140 15 L143 5 L146 15 Z" fill="#4CAF50"/>
+  <path d="M155 15 L158 5 L161 15 Z" fill="#4CAF50"/>
+  <path d="M170 15 L173 5 L176 15 Z" fill="#4CAF50"/>
+  <path d="M185 15 L188 5 L191 15 Z" fill="#4CAF50"/>
+
+  <!-- Dirt Layer -->
+  <rect x="0" y="15" width="200" height="35" fill="#8B4513"/>
+  
+  <!-- Stones -->
+  <circle cx="30" cy="35" r="3" fill="#6B4F3A"/>
+  <circle cx="50" cy="45" r="2" fill="#6B4F3A"/>
+  <circle cx="80" cy="40" r="4" fill="#6B4F3A"/>
+  <circle cx="120" cy="35" r="3" fill="#6B4F3A"/>
+  <circle cx="160" cy="45" r="2" fill="#6B4F3A"/>
+  <circle cx="180" cy="38" r="3" fill="#6B4F3A"/>
+</svg>
